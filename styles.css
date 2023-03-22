@@ -16,3 +16,7 @@ h1 {
     color: rgb(6, 51, 91);
     font-style: italic;
 }
+
+img {
+    width: 200px;
+}
