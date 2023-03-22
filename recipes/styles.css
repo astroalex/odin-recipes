@@ -1,0 +1,21 @@
+* {
+    background-color: antiquewhite;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+}
+
+h1 {
+    color: black;
+}
+
+h2,
+h3 {
+    color:rgba(0, 0, 0, 0.855);
+}
+
+li {
+    color:rgba(0, 0, 0, 0.755);
+}
+
+p {
+    color: rgba(0, 0, 0, 0.715);
+}
