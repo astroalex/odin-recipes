@@ -1,0 +1,18 @@
+* {
+    background-color: antiquewhite;
+}
+
+h1,
+.recipe-link {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: rgb(6, 91, 50);
+    text-align: center;
+}
+
+.recipe-link {
+    color: rgb(6, 51, 91);
+    font-style: italic;
+}
